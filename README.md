@@ -52,14 +52,6 @@ Building scalable data pipelines, scraping systems, and automation tools.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdwldn&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdwldn&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn
