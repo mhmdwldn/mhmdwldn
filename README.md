@@ -45,15 +45,20 @@ Building scalable data pipelines, scraping systems, and automation tools.
 
 ## 🧠 Currently Learning
 
-- Distributed scraping systems
 - Graph databases
 - Vector databases
 - Data indexing systems
 
 ---
 
-## 📫 Contact
+## 🤝 Connect with me
 
-- 💼 LinkedIn
-- 📬 Email
-- 💬 Telegram
+<p>
+<a href="https://www.linkedin.com/in/mhmdwldn/">
+<img src="https://img.shields.io/badge/LinkedIn-mhmdwldn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:work.muhamadwildan@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
