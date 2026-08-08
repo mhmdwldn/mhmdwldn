@@ -1,139 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhamad%20Wildan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:0f172a,100:0f766e&height=200&section=header&text=Muhamad%20Wildan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Data%20Engineer&descSize=18&descAlignY=55" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C97DE&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines+%F0%9F%9B%A0%EF%B8%8F;Web+scraping+at+scale+%F0%9F%95%B7%EF%B8%8F;Backend+APIs+%26+search+systems+%F0%9F%94%8D;Turning+raw+data+into+products+%F0%9F%93%88" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm **Wildan** — an engineer who lives at the intersection of **software** and **data**. I design backend systems that don't just serve requests, but move, transform, and index data at scale.
-
-- 🕷️ Specialized in **web scraping & data extraction** — from anti-bot bypassing to distributed crawlers
-- ⚙️ Building **automation tools & ETL/data pipelines** that run reliably without babysitting
-- 🚀 Crafting **backend APIs** with FastAPI & Express that sit on top of large-scale datasets
-- 🔍 Deeply interested in **search engines, indexing, and data systems**
-- 🧠 Currently exploring **graph databases, vector databases & data indexing systems**
-
-```python
-class Wildan:
-    role       = ["Software Engineer", "Data Engineer"]
-    daily_fuel = "Python ☕"
-    pipeline   = "scrape → clean → store → index → serve"
-    motto      = "If it's repetitive, automate it."
-```
-
----
-
-## 🛠️ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- RESTful API design & development
-- Backend architecture & microservices
-- Caching strategies with Redis
-- Containerized deployment with Docker
-- Automation tooling & CLI utilities
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Engineering
-
-- Large-scale web scraping systems
-- ETL & data pipeline orchestration
-- Data modeling (SQL & NoSQL)
-- Full-text search with Elasticsearch
-- Data indexing & retrieval systems
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Backend & API
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Databases & Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-### Scraping & Automation
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhmdwldn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdwldn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdwldn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-| Topic | Why |
-|---|---|
-| 🕸️ **Graph Databases** | Modeling connected data beyond rows & documents |
-| 🧭 **Vector Databases** | Powering semantic search & AI retrieval systems |
-| 🗂️ **Data Indexing Systems** | Understanding how search engines work under the hood |
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mhmdwldn/">
-<img src="https://img.shields.io/badge/LinkedIn-mhmdwldn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:work.muhamadwildan@gmail.com">
-<img src="https://img.shields.io/badge/Email-work.muhamadwildan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/mhmdwldn">
-<img src="https://img.shields.io/badge/GitHub-mhmdwldn-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=mhmdwldn&style=for-the-badge&color=2c5364" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=67E8F9&center=true&vCenter=true&width=600&lines=Building+crawlers+that+don't+break;Turning+messy+data+into+usable+pipelines;collect+%E2%86%92+clean+%E2%86%92+index+%E2%86%92+serve" alt="Typing SVG" />
 
 <br/>
 
-*"Data is the new oil, but pipelines are the refineries."* ⛽
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmdwldn/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.muhamadwildan@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mhmdwldn)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
 
+<br/>
+
+## About
+
+I'm a self-taught data engineer with ~10 years of experience building web scrapers, crawlers, and ETL pipelines — the unglamorous plumbing that turns messy raw data (e-commerce listings, social media, whatever the source throws at you) into something a search index or a dashboard can actually use.
+
+Most of what I ship looks like: **crawl → parse/normalize → validate → land in a datalake or search index**. I care more about a pipeline that survives a schema change at 3am than one that looks clever in a demo.
+
+Based in Bandung, Indonesia. Also freelance on Upwork/Fiverr for scraping and data engineering work, and currently deepening cloud data engineering skills (AWS) as I move into a new role.
+
+```python
+class Wildan:
+    stack = ["Python", "TypeScript", "FastAPI", "Elasticsearch", "Kafka", "Airflow"]
+    good_at = "scraping things that don't want to be scraped"
+    currently = "leveling up on AWS data engineering (DEA-C01)"
+```
+
+<br/>
+
+## What I've been building
+
+| Project | What it does |
+|---|---|
+| **Smart Crawler** | Production-scale social media data ingestion system processing millions of records daily — Scrapy, Kafka, Elasticsearch, Airflow, Docker, Kubernetes. Includes an in-progress Go rewrite of the Kafka→Elasticsearch producer |
+| **E-Commerce Crawler** | End-to-end streaming pipeline: Tokopedia/Blibli crawl → normalize → land in datalake |
+| **ecommerce-scraper-v2** | Async CLI crawler with a `Controllers → API client → I/O drivers` architecture, Pydantic-validated schemas, pluggable outputs |
+| **pipeline_preprocess** | Parses raw crawler JSON (Twitter keyword/account/retweet data) and writes normalized docs into an Elasticsearch datalake |
+| **TikTok Video Archiver Bot** | Archives TikTok videos with Telegram bot integration |
+| **Sagala Dicatet** | Personal finance tracker web app (Sundanese: "sagala" = everything), built to replace a Notion-based setup, shared with my wife |
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+<br/>
+
+## GitHub Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats-eosin.vercel.app/api?username=mhmdwldn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eosin.vercel.app/api/top-langs/?username=mhmdwldn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=mhmdwldn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## Currently exploring
+
+Working toward the **AWS Certified Data Engineer Associate (DEA-C01)** certification, and going deeper on graph databases and vector search — figuring out how to model connected data and power semantic retrieval beyond plain SQL.
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mhmdwldn&style=flat-square&color=0f766e" alt="Profile Views" />
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:0f766e,100:0b1020&height=100&section=footer" width="100%" />
 </div>
