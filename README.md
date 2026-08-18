@@ -71,7 +71,7 @@ class Wildan:
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eosin.vercel.app/api?username=mhmdwldn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-eosin.vercel.app/api/top-langs/?username=mhmdwldn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eosin.vercel.app/api/top-langs/?username=mhmdwldn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&count_private=true" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=mhmdwldn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
